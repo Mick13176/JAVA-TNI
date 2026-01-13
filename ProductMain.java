@@ -17,7 +17,7 @@ public class ProductMain {
         System.out.println("Price : " + product.price+ " Baht/Item");
         System.out.println("Stock : " + product.quantity+ " Item");
         System.out.println("Stock Value : " + product.stockValue());
-        System.out.println();  // เว้นบรรทัดให้โล่งเหมือนตัวอย่าง
+        System.out.println();
 
 
 
